@@ -3,8 +3,7 @@
 </p>
 
 # Alex Junior
-<sub>*Estudante de Ciência da Computação na Universidade Federal de São Carlos</sub>
-
+## Sobre mim
 Entrei no curso de Ciência da Computação em 2018 sem saber qual para qual área ir, até que a área de Ciência de Dados me chamou a atenção. Criei esse repositório com o objetivo de documentar minha evolução, desenvolvimento de habilidades como pensamento crítico, storytelling, estatística entre outras habilidades importantes em Data Science e quem sabe ajudar alguém no futuro que queira aprender também
 
 
@@ -13,10 +12,8 @@ Entrei no curso de Ciência da Computação em 2018 sem saber qual para qual ár
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/alex-sandro-momi-junior-382bb8157/)
 
-
 ## Projetos:
+
+* **Titanic:** https://bit.ly/2U0rGYj
+
 ---
-
-
-
-
