@@ -14,6 +14,6 @@ Entrei no curso de Ciência da Computação em 2018 sem saber qual para qual ár
 
 ## Projetos:
 
-* **Titanic:** https://bit.ly/2U0rGYj
+* **Titanic:** https://bit.ly/2YsUL1o
 
 ---
