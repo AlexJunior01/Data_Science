@@ -11,6 +11,7 @@ Entrei no curso de Ciência da Computação em 2018 sem saber qual para qual ár
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/alex-sandro-momi-junior-382bb8157/)
+* [Medium](https://medium.com/@alexmomijunior)
 
 ## Projetos:
 
