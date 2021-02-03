@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" >
+  <img src="img/banner.png" >
 </p>
 
 # Alex Junior
@@ -10,7 +10,7 @@ Entrei no curso de Ciência da Computação em 2018 sem saber qual para qual ár
 **Background in:** Python, C.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/alex-sandro-momi-junior-382bb8157/)
+* [LinkedIn](https://www.linkedin.com/in/alexmomijunior/)
 * [Medium](https://medium.com/@alexmomijunior)
 
 ## Projetos:
